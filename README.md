@@ -93,4 +93,4 @@ If you value AI that respects your time, privacy, and creative freedom:
 > 🌿 *Built for creators, by creators. No tracking. No limits. Just AI that works.*  
 > 🔗 [Open Venice](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network)<!-- 24483373204 1 -->
 
-[![Visits](https://api.comiccursor.com/v1/badge?username=damacol&repo=dev-ai-essentials&style=flat)](https://github.com/Damacol/dev-ai-essentials)
+[![Visits](https://komarev.com/ghpvc/?username=damacol&label=Visits&color=blue&style=flat-square)](https://github.com/Damacol/dev-ai-essentials)
